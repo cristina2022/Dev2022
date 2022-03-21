@@ -1,0 +1,11 @@
+ul{
+    display: inline;
+    font-weight: bold;
+   }
+li{
+ padding: 2px;
+ font-weight: bold;
+}
+hr{
+    border:1px solid black;
+}
